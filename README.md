@@ -47,7 +47,7 @@ Dieses Repo beschreibt eine Bastelarbeit mit Pappe, einen Arduino NANO, zwei Ser
 
 ## Körper aus Pappe
 
-![Bild](pic/curelemente.png)
+![Bild](pic/cutelemente.png)
 
 
 ---
